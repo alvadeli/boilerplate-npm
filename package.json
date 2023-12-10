@@ -5,7 +5,7 @@
 	"dependencies": {
 		"express": "^4.14.0"
 	},
-	"keywords": ["freeCodeCamp", "npm"],
+	"keywords": ["freecodecamp", "npm"],
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
