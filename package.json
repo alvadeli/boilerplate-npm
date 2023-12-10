@@ -3,7 +3,7 @@
 	"author": "Alexander van der Linde",
 	"description": "Back End Development and APIs Tutorial from freeCodeCamp",
 	"dependencies": {
-		"@freecodecamp/example": "1.1.0",
+		"@freecodecamp/example": "1.2.13",
 		"express": "^4.14.0"
 	},
 	"keywords": ["freecodecamp", "npm"],
