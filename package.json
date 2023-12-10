@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Alexander van der Linde",
+	"description": "Back End Development and APIs Tutorial from freeCodeCamp",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
