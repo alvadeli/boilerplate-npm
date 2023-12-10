@@ -1,6 +1,6 @@
 {
-	"author": "Alexander van der Linde",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Alexander van der Linde",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -10,6 +10,6 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
+		"url": "https://github.com/alvadeli/boilerplate-npm.git"
 	}
 }
